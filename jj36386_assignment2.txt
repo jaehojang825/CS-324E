@@ -1,0 +1,6 @@
+Project description for assignment 2
+
+In the following assignment, 4 different filter were used to manipulate the image.
+Grayscale filter, contrast filter, Gaussian, edge detection filters were used.
+Input handling was used to take 1-4 number to perform according filters.
+A Kernel/convolution matrix was used to traverse neighboring pixels and create buffers.
