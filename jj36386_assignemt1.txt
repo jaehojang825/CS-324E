@@ -1,4 +1,0 @@
-The following is a Tank in the desert I created using shape primitives such as rectangles, circles, and triangles.
-I used 3 stroke wieghts including no stroke, 2,3, 7. I used 5 different colors of light red/red, light blue, gray, orange,
-and yellow. I used a ellipse to create a sun. However, the concept of breier curves still is confusing to me and hope
-we go over it in class.
